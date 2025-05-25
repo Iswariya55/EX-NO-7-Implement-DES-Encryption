@@ -4,7 +4,7 @@
 
 To use the Data Encryption Standard (DES) algorithm for a practical application, such as securing sensitive data transmission in financial transactions.
 
-## ALGORITHM:
+## ALGORITHM: 
 
 1. DES is based on a symmetric key encryption technique that encrypts data in 64-bit blocks.
 2. DES uses a Feistel network structure with 16 rounds of processing for encryption.
